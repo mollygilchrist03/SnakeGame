@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SnakeGameClassLibrary
+namespace SnakeGameClassLibrary.Presentation
 {
-    public class RenderGame
+    public class GameEngine
     {
     }
 }
